@@ -1,8 +1,8 @@
 {
-  "name": "AFK Ncoder",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Verity",
-    "password": "Skibidi",
+    "username": "PerzaanLive",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Nd@12345678"
+      "password": "Perzuu"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Lowkey these messages might be annoying lmao",
-        "Ncoder was here...",
-        "I like to play Minecraft!.. but im just a bot so why am i here?"
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
