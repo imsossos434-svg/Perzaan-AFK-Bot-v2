@@ -8,7 +8,7 @@
   "server": {
     "ip": "anderdingus.playserver.pro",
     "port": 18839,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
